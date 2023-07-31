@@ -1,0 +1,15 @@
+C:\Users\presl\source\repos\BowlingGameCalculator\bin\Debug\net6.0\BowlingGameCalculator.exe
+C:\Users\presl\source\repos\BowlingGameCalculator\bin\Debug\net6.0\BowlingGameCalculator.deps.json
+C:\Users\presl\source\repos\BowlingGameCalculator\bin\Debug\net6.0\BowlingGameCalculator.runtimeconfig.json
+C:\Users\presl\source\repos\BowlingGameCalculator\bin\Debug\net6.0\BowlingGameCalculator.dll
+C:\Users\presl\source\repos\BowlingGameCalculator\bin\Debug\net6.0\BowlingGameCalculator.pdb
+C:\Users\presl\source\repos\BowlingGameCalculator\obj\Debug\net6.0\BowlingGameCalculator.csproj.AssemblyReference.cache
+C:\Users\presl\source\repos\BowlingGameCalculator\obj\Debug\net6.0\BowlingGameCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\presl\source\repos\BowlingGameCalculator\obj\Debug\net6.0\BowlingGameCalculator.AssemblyInfoInputs.cache
+C:\Users\presl\source\repos\BowlingGameCalculator\obj\Debug\net6.0\BowlingGameCalculator.AssemblyInfo.cs
+C:\Users\presl\source\repos\BowlingGameCalculator\obj\Debug\net6.0\BowlingGameCalculator.csproj.CoreCompileInputs.cache
+C:\Users\presl\source\repos\BowlingGameCalculator\obj\Debug\net6.0\BowlingGameCalculator.dll
+C:\Users\presl\source\repos\BowlingGameCalculator\obj\Debug\net6.0\refint\BowlingGameCalculator.dll
+C:\Users\presl\source\repos\BowlingGameCalculator\obj\Debug\net6.0\BowlingGameCalculator.pdb
+C:\Users\presl\source\repos\BowlingGameCalculator\obj\Debug\net6.0\BowlingGameCalculator.genruntimeconfig.cache
+C:\Users\presl\source\repos\BowlingGameCalculator\obj\Debug\net6.0\ref\BowlingGameCalculator.dll
